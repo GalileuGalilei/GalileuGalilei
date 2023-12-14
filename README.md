@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galileugalilei&label=Profile%20views&color=0e75b6&style=flat" alt="galileugalilei" /> </p>
 
-- 🔭 I’m currently working on **a simulator project that I can't share info about**
+- 🔭 I’m currently working on **a simulator project SIS-ASTROS GMF**
 
 - 🌱 I’m currently learning **Sklearn and Computer Vision topics**
 
