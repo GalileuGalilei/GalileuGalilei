@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a simulator project SIS-ASTROS GMF**
 
-- 🌱 I’m currently learning **Sklearn and Computer Vision topics**
+- 🌱 I’m currently learning **Tensorflow and Computer Vision topics**
 
 - 📫 How to reach me **alfredocossetin@gmail.com or alfredocossetin@outlook.com**
 
