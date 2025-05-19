@@ -14,7 +14,7 @@
 <br/>
 
 ## Languages and Tools
-<p align="left"> 
+<p align="left" style="background-color:"gray"> 
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/v6dc4611c4232bd02b2b914c4948f523846f90835f230654af18f87f75fe9f73c/tensorflow/images/lockup.svg" alt="Tensorflow" width="70" height="40"/> </a>  
   <a href="https://pytorch.org" target="_blank" rel="noreferrer"> <img src="https://pytorch.org/wp-content/uploads/2024/10/logo.svg" alt="PyTorch" width="70" height="40"/> </a>  
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="Spark" width="70" height="40"/> </a>  
